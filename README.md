@@ -4,7 +4,7 @@
 
 ## 使用
 ### Html
-  <!--start:injectScript--><!--end:injectScript-->
+    <!--start:injectScript--><!--end:injectScript-->
 ### Gulp
 
     var McInject = require('./gulp-Mc-inject');
